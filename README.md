@@ -20,7 +20,7 @@
 
 ### Links
 
-- Solution URL: ()
+- Solution URL: (https://github.com/Avantiermv/qr-code-challenge)
 - Live Website URL: []
 
 ## My process

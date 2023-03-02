@@ -47,6 +47,6 @@ I'm focused on continuing to learn and practice HTML, CSS and Javascript. I'm al
 
 ## Author
 
-- Frontend Mentor - [@m]()
+- Frontend Mentor - [@Avantiermv](https://www.frontendmentor.io/profile/Avantiermv)
 
  

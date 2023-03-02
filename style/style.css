@@ -1,0 +1,123 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Syne&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+:root{
+    --cor01: hsl(0, 0%, 100%);
+    --cor02: hsl(212, 45%, 89%);
+    --cor03: hsl(220, 15%, 55%);
+    --cor04: hsl(218, 44%, 22%);
+    --fonte: 'Syne', sans-serif;
+}
+
+body{
+    font-family:var(--fonte);
+    background-color: var(--cor03);
+}
+
+
+
+section#Inicio{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 350px;
+    height: 560px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+img{
+    width: 90%;
+    border-radius: 15px;
+}
+
+div#img{
+   margin: auto;
+   margin-left: 30px;
+   margin-top: 20px;
+}
+
+div#conteudo{
+    text-align: center;
+    margin-top: 55px;
+}
+
+div#conteudo > h1{
+    color: var(--cor04);
+    margin: 10px;
+}
+
+div#conteudo > p{
+    color: var(--cor03);
+    margin: 10px;
+}
+footer#fixar{
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    position: fixed;
+    width: 100%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    margin-top: 10px;
+    text-align: center;
+}
+
+footer > p > a{
+    text-decoration: none;
+}
+
+footer > p > a:hover{
+    background-color: var(--cor01);
+    color: var(--cor04);
+    border-radius: 5px;
+}
+

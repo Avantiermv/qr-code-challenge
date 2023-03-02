@@ -16,7 +16,7 @@
 
 ### Print Screen
 
-![](./images/Captura da Web_2-3-2023_15425_avantiermv.github.io.jpeg)
+![]()
 
 ### Links
 

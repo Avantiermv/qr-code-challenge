@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: (https://github.com/marcosviniciuscolares/qr-code-challenge)
-- Live Website URL: [https://marcosviniciuscolares.github.io/qr-code-challenge/]
+- Solution URL: ()
+- Live Website URL: []
 
 ## My process
 
@@ -47,6 +47,6 @@ I'm focused on continuing to learn and practice HTML, CSS and Javascript. I'm al
 
 ## Author
 
-- Frontend Mentor - [@marcosviniciuscolares](https://www.frontendmentor.io/profile/marcosviniciuscolares)
-- Discord - [https://discord.com/channels/@me]
+- Frontend Mentor - [@m]()
+
  
